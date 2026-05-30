@@ -144,6 +144,10 @@ export default function Home() {
           <Scissors size={19} />
           <span>Weed {garden.weedsRemoved}</span>
         </button>
+        <button disabled={!garden.planted || busy} onClick={() => runAction("clearGarden")} type="button">
+          <Shovel size={19} />
+          <span>Clear</span>
+        </button>
       </section>
     </Shell>
   );

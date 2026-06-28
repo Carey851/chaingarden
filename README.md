@@ -54,3 +54,11 @@ Common files to look for include:
 - `README.md`
 
 The actual setup process depends on which of these files are present.
+
+## Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Carey851/chaingarden.git
+cd chaingarden

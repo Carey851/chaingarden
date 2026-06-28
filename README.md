@@ -77,3 +77,11 @@ cp .env.example .env
 ```
 
 Then update the local configuration values as needed.
+
+## Usage
+
+Run the project using the commands or scripts defined in the repository.
+
+If a `Makefile` is present, inspect available commands with:
+
+```bash

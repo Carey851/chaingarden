@@ -93,3 +93,11 @@ If a package manifest is present, check the scripts or documented entry points i
 For example, in projects with a `package.json`, scripts are often listed under the `scripts` section.
 
 Use the repository contents as the source of truth for available commands.
+
+## Development
+
+Before making changes, create a new branch:
+
+```bash
+git checkout -b your-branch-name
+```

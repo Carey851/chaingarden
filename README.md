@@ -133,3 +133,11 @@ If no test command is documented, inspect the project files to determine the app
 ## Configuration
 
 Configuration requirements are not specified in the original README.
+
+Check the repository for example configuration files, environment variable templates, or comments in source files.
+
+Avoid committing local secrets, private keys, or machine-specific configuration.
+
+## Notes
+
+This README is intentionally conservative and avoids assuming details that are not present in the original project description.

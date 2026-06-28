@@ -116,3 +116,12 @@ git push origin your-branch-name
 ```
 
 ## Testing
+
+If the repository includes tests, run them using the test command defined by the project.
+
+Look for testing instructions in configuration files, scripts, or test directories.
+
+Common test locations include:
+
+- `tests/`
+- `test/`

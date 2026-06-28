@@ -37,3 +37,12 @@ Because the original README does not list specific functionality, the confirmed 
 - Repository location: `https://github.com/Carey851/chaingarden.git`
 - Source code and project files are available in the repository
 - Setup and usage should be determined from the files included in the project
+
+## Project Structure
+
+After cloning the repository, review the top-level files and folders to understand how the project is organized.
+
+Common files to look for include:
+
+- `package.json`
+- `requirements.txt`

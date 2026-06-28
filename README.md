@@ -141,3 +141,11 @@ Avoid committing local secrets, private keys, or machine-specific configuration.
 ## Notes
 
 This README is intentionally conservative and avoids assuming details that are not present in the original project description.
+
+As the project evolves, update this file with:
+
+- A more detailed project description
+- Confirmed setup instructions
+- Exact usage commands
+- Dependency requirements
+- Testing instructions

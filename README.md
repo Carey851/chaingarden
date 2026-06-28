@@ -108,3 +108,11 @@ Make focused changes and commit them with clear messages:
 git add .
 git commit -m "Describe the change"
 ```
+
+Push your branch when ready:
+
+```bash
+git push origin your-branch-name
+```
+
+## Testing

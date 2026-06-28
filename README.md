@@ -69,3 +69,11 @@ Install dependencies according to the files present in the repository.
 For example, if a dependency manifest is included, use the package manager appropriate for that file.
 
 If configuration values are required, check whether the repository includes an example configuration file such as `.env.example`.
+
+If so, copy it before editing local settings:
+
+```bash
+cp .env.example .env
+```
+
+Then update the local configuration values as needed.

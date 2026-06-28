@@ -62,3 +62,10 @@ Clone the repository:
 ```bash
 git clone https://github.com/Carey851/chaingarden.git
 cd chaingarden
+```
+
+Install dependencies according to the files present in the repository.
+
+For example, if a dependency manifest is included, use the package manager appropriate for that file.
+
+If configuration values are required, check whether the repository includes an example configuration file such as `.env.example`.

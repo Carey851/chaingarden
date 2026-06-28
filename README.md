@@ -125,3 +125,11 @@ Common test locations include:
 
 - `tests/`
 - `test/`
+- `spec/`
+- `__tests__/`
+
+If no test command is documented, inspect the project files to determine the appropriate tooling.
+
+## Configuration
+
+Configuration requirements are not specified in the original README.

@@ -46,3 +46,11 @@ Common files to look for include:
 
 - `package.json`
 - `requirements.txt`
+- `pyproject.toml`
+- `Cargo.toml`
+- `go.mod`
+- `Makefile`
+- `.env.example`
+- `README.md`
+
+The actual setup process depends on which of these files are present.

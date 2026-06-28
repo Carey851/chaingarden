@@ -149,3 +149,11 @@ As the project evolves, update this file with:
 - Exact usage commands
 - Dependency requirements
 - Testing instructions
+- Deployment or release steps, if applicable
+- Contribution guidelines, if desired
+
+## License
+
+No license information was provided in the original README.
+
+If the repository includes a license file, refer to that file for licensing terms.

@@ -101,3 +101,10 @@ Before making changes, create a new branch:
 ```bash
 git checkout -b your-branch-name
 ```
+
+Make focused changes and commit them with clear messages:
+
+```bash
+git add .
+git commit -m "Describe the change"
+```

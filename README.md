@@ -85,3 +85,11 @@ Run the project using the commands or scripts defined in the repository.
 If a `Makefile` is present, inspect available commands with:
 
 ```bash
+make
+```
+
+If a package manifest is present, check the scripts or documented entry points inside that file.
+
+For example, in projects with a `package.json`, scripts are often listed under the `scripts` section.
+
+Use the repository contents as the source of truth for available commands.

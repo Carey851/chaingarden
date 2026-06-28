@@ -30,3 +30,10 @@ cd chaingarden
 ```
 
 ## Features
+
+Because the original README does not list specific functionality, the confirmed details are intentionally limited:
+
+- Project name: `chaingarden`
+- Repository location: `https://github.com/Carey851/chaingarden.git`
+- Source code and project files are available in the repository
+- Setup and usage should be determined from the files included in the project

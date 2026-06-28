@@ -21,3 +21,12 @@ Repository URL:
 ```bash
 https://github.com/Carey851/chaingarden.git
 ```
+
+Clone the repository with:
+
+```bash
+git clone https://github.com/Carey851/chaingarden.git
+cd chaingarden
+```
+
+## Features
